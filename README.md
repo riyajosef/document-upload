@@ -7,12 +7,6 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Document Upload
-
-Certainly! Here’s a README template for your GitHub repository:
-
----
-
 # Document Upload and QR Code Generation
 
 This Laravel application provides a comprehensive solution for handling document uploads. It includes functionality for validating files, extracting their contents, saving data to a database, and generating QR codes with document details.
